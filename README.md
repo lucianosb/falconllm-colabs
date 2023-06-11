@@ -11,6 +11,9 @@ Google Colabs to run many Falcon based LLMs
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/falconllm-colabs/blob/main/notebooks/h2oGPT.ipynb) | [h2oai/h2ogpt-gm-oasst1-en-2048-falcon-7b-v2](https://huggingface.co/h2oai/h2ogpt-gm-oasst1-en-2048-falcon-7b-v2) | 
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/falconllm-colabs/blob/main/notebooks/TheBloke_WizardLM_Uncensored_Falcon_7B_GPTQ.ipynb) | [TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ](https://huggingface.co/TheBloke/WizardLM-Uncensored-Falcon-7B-GPTQ) | 
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/falconllm-colabs/blob/main/notebooks/gorilla_llm_gorilla_falcon_7b_hf_v0.ipynb) | [gorilla-llm/gorilla-falcon-7b-hf-v0](h2oai/h2ogpt-gm-oasst1-en-2048-falcon-7b-v2) | 
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/falconllm-colabs/blob/main/notebooks/TheBloke_falcon_40b_instruct_GPTQ.ipynb) | [TheBloke/falcon-40b-instruct-GPTQ](https://huggingface.co/TheBloke/falcon-40b-instruct-GPTQ) | 
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucianosb/falconllm-colabs/blob/main/notebooks/OpenAssistant_falcon_7b_sft_mix_2000.ipynb) | [OpenAssistant/falcon-7b-sft-mix-2000](https://huggingface.co/OpenAssistant/falcon-7b-sft-mix-2000) | 
+
 
 ## About 
 
